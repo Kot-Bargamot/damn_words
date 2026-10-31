@@ -8,6 +8,10 @@ title: "Modal verbs"
 ## Объяснение
 
 - Обязанность — have to / must [1]
+- could have = мог бы (но не сделал) / возможность. past possibility. [2]
+- should have = следовало (и это вызывает сожаление/упрёк). past advice / regret. [2]
+- would have = результат в условии про прошлое (“если бы…, то…”). past willingness. [2]
+- must have = уверенность говорящего в чем-то. [2]
 
 ## Условия употребления
 
@@ -15,6 +19,7 @@ title: "Modal verbs"
 - Отсутствие обязанности — don’t have to [1]
 - Запрет — mustn’t [1]
 - Рекомендация — should / ought to [1]
+- Past modal + V3 construction. [2]
 
 ## Конструкции
 
@@ -31,3 +36,4 @@ title: "Modal verbs"
 ## Источники
 
 1. [Сообщение в Telegram](https://t.me/c/4435116323/9)
+2. [Сообщение в Telegram](https://t.me/c/4435116323/92)

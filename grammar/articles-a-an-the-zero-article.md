@@ -9,6 +9,7 @@ title: "Articles: a/an, the, zero article"
 
 - Use a/an (= one) with singular countable nouns when it's not clear which one. [1]
 - Use the (= this, these, that, those) when it is clear which one(s). [1]
+- exclude: go to the cinema [2]
 
 ## Конструкции
 
@@ -31,3 +32,4 @@ title: "Articles: a/an, the, zero article"
 ## Источники
 
 1. [Сообщение в Telegram](https://t.me/c/4435116323/1226)
+2. [Сообщение в Telegram](https://t.me/c/4435116323/1233)
